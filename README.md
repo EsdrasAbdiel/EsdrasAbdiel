@@ -1,29 +1,61 @@
-Olá! Sou Esdras Abdiel👋
+# Olá! Sou Esdras Abdiel 👋
 
-Desenvolvedor Full Stack focado em desenvolvimento web.
+### Desenvolvedor Full Stack | C# • .NET • Angular
 
-💻 Tecnologias
+Desenvolvedor Full Stack focado no desenvolvimento de aplicações web, APIs REST e integração com bancos de dados.
 
-C# • .NET • ASP.NET Core
-Angular • TypeScript
-PostgreSQL • Entity Framework Core
-Git • REST APIs
+## 💻 Tecnologias
 
-🚀 Projetos em destaque
+**Back-end**
+- C# / .NET
+- ASP.NET Core Web API
+- Entity Framework Core
+- APIs REST
 
-Sistema Financeiro
-Angular + ASP.NET Core + PostgreSQL
+**Front-end**
+- Angular
+- TypeScript
+- Angular Material
+- HTML / CSS
 
-https://github.com/EsdrasAbdiel/GerenciamentoDeGastos
-https://github.com/EsdrasAbdiel/Gastos_API
-https://github.com/EsdrasAbdiel/BancoDadosGerenciamentoDeGastos
+**Banco de Dados**
+- PostgreSQL
+- SQL
 
-Sistema de Agendamentos
-Angular + .NET
+**Ferramentas**
+- Git
+- GitHub
 
-Em andamento
+---
 
-📫 Contato
+## 🚀 Projetos em Destaque
 
-LinkedIn: https://www.linkedin.com/in/esdras-abdiel-aab329190/
-E-mail: esdrascintrawolf@gmail.com
+### 💰 Sistema de Gerenciamento Financeiro
+
+Aplicação Full Stack desenvolvida para gerenciamento de gastos pessoais, permitindo organizar despesas, categorias e informações financeiras.
+
+**Tecnologias:** Angular • ASP.NET Core • Entity Framework Core • PostgreSQL
+
+**Repositórios:**
+
+- [Frontend — GerenciamentoDeGastos](https://github.com/EsdrasAbdiel/GerenciamentoDeGastos)
+- [Backend — Gastos API](https://github.com/EsdrasAbdiel/Gastos_API)
+- [Banco de Dados — Gerenciamento de Gastos](https://github.com/EsdrasAbdiel/BancoDadosGerenciamentoDeGastos)
+
+---
+
+### 📅 Sistema de Agendamentos
+
+Aplicação Full Stack para gerenciamento de agendamentos, clientes, serviços e horários.
+
+**Tecnologias:** Angular • C# • .NET • ASP.NET Core
+
+🚧 **Em desenvolvimento**
+
+---
+
+## 📫 Contato
+
+**LinkedIn:** [linkedin.com/in/esdras-abdiel-aab329190](https://www.linkedin.com/in/esdras-abdiel-aab329190/)
+
+**E-mail:** esdrascintrawolf@gmail.com
