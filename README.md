@@ -1,16 +1,23 @@
-## Hi there 👋
+Olá! Sou Esdras Abdiel👋
 
-<!--
-**EsdrasAbdiel/EsdrasAbdiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Full Stack focado em desenvolvimento web.
 
-Here are some ideas to get you started:
+💻 Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+C# • .NET • ASP.NET Core
+Angular • TypeScript
+PostgreSQL • Entity Framework Core
+Git • REST APIs
+
+🚀 Projetos em destaque
+
+Sistema Financeiro
+Angular + ASP.NET Core + PostgreSQL
+
+Sistema de Agendamentos
+Angular + .NET
+
+📫 Contato
+
+LinkedIn: https://www.linkedin.com/in/esdras-abdiel-aab329190/
+E-mail: esdrascintrawolf@gmail.com
