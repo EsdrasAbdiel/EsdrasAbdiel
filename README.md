@@ -14,8 +14,14 @@ Git • REST APIs
 Sistema Financeiro
 Angular + ASP.NET Core + PostgreSQL
 
+https://github.com/EsdrasAbdiel/GerenciamentoDeGastos
+https://github.com/EsdrasAbdiel/Gastos_API
+https://github.com/EsdrasAbdiel/BancoDadosGerenciamentoDeGastos
+
 Sistema de Agendamentos
 Angular + .NET
+
+Em andamento
 
 📫 Contato
 
